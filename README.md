@@ -35,5 +35,5 @@ La aplicación está orientada principalmente a la **exploración y visualizaci�
 
 **Aplicación:** https://hbhrhehnh-aethermaps.shinyapps.io/uso_suelo_vegetacion_2020/
 
-**Código fuente:** app.R
+**Código fuente:** `app.R`
 
