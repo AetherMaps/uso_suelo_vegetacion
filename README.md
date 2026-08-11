@@ -6,7 +6,7 @@ Se desarrolló una aplicación web interactiva en **R Shiny** para facilitar la 
 
 ### Datos y procesamiento
 
-La aplicación integra información geoespacial de uso de suelo y vegetación, previamente preparada para su visualización. Los datos son procesados en R y organizados para permitir su consulta dentro de la aplicación.
+La aplicación integra información geoespacial de uso de suelo y vegetación, previamente preparada para su visualización obtenida de Mendoza-Ponce et al. (2019) en Capital Natural de Mexico ante el Cambio Climatico (https://climaysociedad.atmosfera.unam.mx:8080/shiny/CapitalNaturalMexicoShiny/). Los datos son procesados en R y organizados para permitir su consulta dentro de la aplicación.
 
 ### Implementación
 
